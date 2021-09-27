@@ -7,4 +7,4 @@ myVar2 = 200 # camel-case
 z = my_var_1 + myVar2
 #встроенная функция: 
 print(z)
-# ctrl + J
+# ctrl + J вызов терминала снизу
